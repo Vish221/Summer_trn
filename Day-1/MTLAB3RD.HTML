@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>MARQUEE</title>
+  </head>
+  <body bgcolor="yellow">
+    <h1><marquee scrollamount="20">Hello World</marquee></h1>
+    <h1><marquee scrollamount="20" direction="right">Hello World</marquee></h1>
+    <h1>
+      <marquee scrollamount="20" behavior="alternate">Hello World</marquee>
+    </h1>
+    <h1>
+      <marquee
+        scrollamount="20"
+        behavior="alternate"
+        onmouseout="start()"
+        onmousemove="stop()"
+        >Hello World</marquee
+      >
+    </h1>
+    <h1>
+      <marquee
+        scrollamount="20000"
+        behavior="alternate"
+        onmouseover="stop()"
+        onmouseout="start()"
+        direction="up"
+        height="1000"
+        >Hello World</marquee
+      >
+    </h1>
+  </body>
+</html>
