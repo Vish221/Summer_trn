@@ -1,0 +1,81 @@
+downlod the first vs code,any browser
+history of html
+HTML:stands for hyper text markup language .
+Html is used to craete web page and web application.
+we can create a static website by html only.
+It is developed by tim berners lee  
+html =>1993
+Html => November 1995
+html 3 => January 1997
+html 4=>December 1997
+html5=> October 2014
+ 
+
+Tags: used to create html document and render properties.
+every tag in html perform different task
+ types of tag.
+ Self closing tag
+Container tag or closing tag
+Example :
+Self closing:<.../>
+<tagname/>
+<br/>
+<img/>
+<link/> , etc.
+closing tag
+<...>  </..>
+<tagname>content</tagname>
+Example:
+ <span>...</span>
+<b>....</b>
+
+etc.
+
+=============
+Basic Layout Of html program
+<html>
+<head>
+.
+.
+. head section
+.
+.
+</head>
+<body>
+.
+.
+.   body section 
+.
+</body>
+</html>
+
+Save html program in html Extension.
+fileName.html
+filename.htm
+ 
+
+head section content 8 tag
+title tag:<title></title>
+Link tag: <Link>
+Script tag: <script> <script/>
+base tag: <base>
+style tag <style>...</style>
+command tag <command>...</command>
+Noscript tag: <noscript>...<noscirt>
+Meta tag : <meta>
+Text tag 
+<center>...</center>{for center}
+<b>...</b>{for break}
+<span>...<span>{chose the special word}
+<label>...<label>
+<i>...</i>
+<u>..</u>
+<hr>
+<pre>...<pre>
+<p>..</p>
+<marquee>...<marquee>
+
+
+
+
+
